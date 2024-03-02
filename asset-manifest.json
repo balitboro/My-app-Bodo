@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-app-Bodo/static/css/main.dc4d6ff2.css",
+    "main.js": "/My-app-Bodo/static/js/main.ef1b7b8e.js",
+    "static/js/453.ed3810f9.chunk.js": "/My-app-Bodo/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/My-app-Bodo/index.html",
+    "main.dc4d6ff2.css.map": "/My-app-Bodo/static/css/main.dc4d6ff2.css.map",
+    "main.ef1b7b8e.js.map": "/My-app-Bodo/static/js/main.ef1b7b8e.js.map",
+    "453.ed3810f9.chunk.js.map": "/My-app-Bodo/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.ef1b7b8e.js"
+  ]
+}
